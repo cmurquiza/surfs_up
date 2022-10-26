@@ -1,4 +1,5 @@
-                                                                      # Surfs_up Analysis
+# Surfs_up Analysis
+
 ## Purpose of the analysis: The purpose of this analysis was to do some weather and temperature analysis to see the precipitation data in general, and also the temperature data for June and December to see the summary statistics between the two, and compare the outcomes to see if the Surf and Ice Cream shop would be sustainable year-round. 
 
 ## Results
@@ -11,7 +12,7 @@
 
 ## Summary:
 
-###  With all of this information, it would seem that that the temperatures are fairly stable and similar throughout the year, and would still be a great investment as a ice cream and surf shop due to the weather still reaching considerably warm temperatures even into the winter month of December. With that in mind, that will say that there will more than likely be surfers still and people wanting ice cream during that time frame. That and the precipitation being low for both months where one is in the summer and the other in winter, it would seem like a great investment for W. Avy to be apart of. 
+### With all of this information, it would seem that that the temperatures are fairly stable and similar throughout the year, and would still be a great investment as a ice cream and surf shop due to the weather still reaching considerably warm temperatures even into the winter month of December. With that in mind, that will say that there will more than likely be surfers still and people wanting ice cream during that time frame. That and the precipitation being low for both months where one is in the summer and the other in winter, it would seem like a great investment for W. Avy to be apart of. 
 
 ### With the statistic summary, I wanted to also check the look of the data graphed and decided to plot a histograph and see how the data looked like, and the data looks fairly distributed normally, but we can further look into it to see if the data is skewed in any way. This can help us understand if the temperatures naturally tend to lean one way or not during these months. We can also do more research and get data to determine the tourist traffic flow for that island and location where that surf and ice cream shop is. With this added query and information, W. Avy can truly feel confident and more comfortable investing in this shop.
 
